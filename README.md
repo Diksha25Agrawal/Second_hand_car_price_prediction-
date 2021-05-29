@@ -8,6 +8,6 @@ Python - 3.8.5 Anaconda Navigator - 2.0.1 Jupyter Notebook - 6.1.4
 --> Analyzing: Numpy, Pandas
 
 --> Visualization: Matplotlib, Seaborn, Plotly
---> Machine learning : sklearn
+# --> Machine learning : sklearn
 
 Dataset available on Kaggle
